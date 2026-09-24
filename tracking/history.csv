@@ -6,3 +6,4 @@ timestamp,task_id,subtask_id,user_id,action,outcome,detail,command,version,input
 2026-09-24T12:14:39.296Z,P0002,,297915765,claim_encoding,accepted,,campaign.claimTask,1,"{""task_id"":""P0002""}",5
 2026-09-24T12:15:52.338Z,P0002,,297915765,submit_encoding,accepted,,campaign.submitScoreSetup,1,"{""task_id"":""P0002"",""staves"":3,""groups"":1,""keysig"":""1f"",""meter"":""3/4""}",6
 2026-09-24T12:16:44.655Z,P0002,S0001,38179254,claim_validation,accepted,,campaign.claimValidation,1,"{""task_id"":""P0002"",""subtask_id"":""S0001""}",7
+2026-09-24T12:17:20.227Z,P0002,S0001,38179254,submit_validation,accepted,pass,campaign.submitValidation,2,"{""task_id"":""P0002"",""subtask_id"":""S0001"",""verdict"":""pass""}",8
